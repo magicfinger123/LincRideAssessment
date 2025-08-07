@@ -1,13 +1,13 @@
-Here's the content formatted properly for a `README.md` file in Markdown:
 
----
 
-````markdown
 #  LincRideAssessment – Points of Interest Finder App
 
 ## 1. How to Run the App
 
 ### 1.1 Requirements
+
+Demo: View the demo:
+   https://drive.google.com/file/d/1XpDq138huRa6xi9GAC1NET8fLTnChGjM/view?usp=sharing
 1. macOS with Xcode 15 or later  
 2. iOS 17.0+  
 3. Swift 5+  
@@ -15,16 +15,14 @@ Here's the content formatted properly for a `README.md` file in Markdown:
 
 ### 1.2 Setup Instructions
 1. Clone or download this repository:
-   ```bash
    git clone https://github.com/magicfinger123/LincRideAssessment.git
-````
+
 
 2. Open `LincRideAssessment.xcodeproj` in Xcode.
 3. Ensure your development team is set under **Signing & Capabilities**.
 4. Select a simulator or real device.
 5. Run the app.
 
----
 
 ## 2. Features
 
